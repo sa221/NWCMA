@@ -1,0 +1,8 @@
+﻿namespace NWCMADemoApp.Models.AdminModel
+{
+    public class MedicineModel
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+    }
+}
